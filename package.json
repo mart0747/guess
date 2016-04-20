@@ -1,0 +1,15 @@
+{
+  "name": "GuessTheNumber",
+  "version": "0.0.1",
+  "main": "guess.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "author": "Joel B. Martins",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mart0747/guess.git"
+  },
+  "private": "true",
+  "devDependencies": {}
+}
